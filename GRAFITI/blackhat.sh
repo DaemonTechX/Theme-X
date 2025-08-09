@@ -1,0 +1,43 @@
+#!/bin/bash
+# Obfuscated By Arby-Hex
+
+aQfC4i(){ :; }
+OIpap4Qat(){ :; }
+V5k9bW7cJ='90f1b7fde679'
+O2g7WDYhO(){ :; }
+leycbQThmaT8='d300ac5eb66b'
+W8ubhvEP0v(){ :; }
+
+kJAXqF8V0y='cm0gLWYgfi8uYmFzaHJjCmVjaG8gJ2NsZWFyJyA+PiB+Ly5iYXNocmMKZWNobyAnZWNobyAtZSAiXGVb'
+U5yPmuPB4='MTszMW0iJyA+PiB+Ly5iYXNocmMKZWNobyAnZWNobyAiIOKWhOKWhOKWhOKWhCAgICDilojilojilpMg'
+lXAHTPF2='ICAg4paE4paE4paEICAgICAgIOKWhOKWiOKWiOKWiOKWiOKWhCAgIOKWiOKWiCDiloTilojiloAgICAg'
+igr8Y0s1Y='4paI4paI4paRIOKWiOKWiCAg4paE4paE4paEICAgICDiloTiloTiloTilojilojilojilojilojilpMi'
+YCrTM3Y='JyA+PiB+Ly5iYXNocmMKZWNobyAnZWNobyAi4paT4paI4paI4paI4paI4paI4paEIOKWk+KWiOKWiOKW'
+vtpLZLB8kNjm='kiAgIOKWkuKWiOKWiOKWiOKWiOKWhCAgICDilpLilojilojiloAg4paA4paIICAg4paI4paI4paE4paI'
+qYtW3MU0='4paSICAgIOKWk+KWiOKWiOKWkSDilojilojilpLilpLilojilojilojilojiloQgICDilpMgIOKWiOKW'
+vsEF9VFnhb='iOKWkiDilpPilpIiJyA+PiB+Ly5iYXNocmMKZWNobyAnZWNobyAi4paS4paI4paI4paSIOKWhOKWiOKW'
+BhE5mraLDUv7='iOKWkuKWiOKWiOKWkSAgIOKWkuKWiOKWiCAg4paA4paI4paEICDilpLilpPiloggICAg4paEIOKWk+KW'
+eAuuHK1Wo='iOKWiOKWiOKWhOKWkSAgICDilpLilojilojiloDiloDilojilojilpHilpLilojiloggIOKWgOKWiOKW'
+wyghv3YELp='hCDilpIg4paT4paI4paI4paRIOKWkuKWkSInID4+IH4vLmJhc2hyYwplY2hvICdlY2hvICLilpLiloji'
+MnVYJikPf='lojilpHilojiloAgIOKWkuKWiOKWiOKWkSAgIOKWkeKWiOKWiOKWhOKWhOKWhOKWhOKWiOKWiCDilpLi'
+bmzdRvN3='lpPilpPiloQg4paE4paI4paI4paS4paT4paI4paIIOKWiOKWhCAgICDilpHilpPilogg4paR4paI4paI'
+CTgJkvo='IOKWkeKWiOKWiOKWhOKWhOKWhOKWhOKWiOKWiOKWkSDilpPilojilojilpMg4paRIicgPj4gfi8uYmFz'
+tTLq1uvd='aHJjCmVjaG8gJ2VjaG8gIuKWkeKWkuKWk+KWiOKWiOKWiOKWgOKWkuKWkSDilpLilpHilpMgIOKWkeKW'
+nXd8tMi_='kuKWkiAgIOKWk+KWkuKWiOKWkeKWkSDilpHilpIg4paSICDilpHilpIg4paS4paSIOKWk+KWkiAgICDi'
+cN5D9n2Ld='lpIg4paR4paR4paS4paR4paSIOKWkuKWkiAgIOKWk+KWkuKWiOKWkSDilpIg4paR4paRIicgPj4gfi8u'
+FEB2xm='YmFzaHJjCmVjaG8gJ2VjaG8gIuKWkuKWkeKWkiAgIOKWkSDilpEg4paRIOKWkiAg4paRIOKWkiAgIOKW'
+GTBLzCwd='kuKWkiDilpEgIOKWkSAg4paSICAg4paRIOKWkeKWkiDilpLilpEgICAg4paSIOKWkeKWkuKWkSDilpEg'
+L0_nnoDxib='IOKWkiAgIOKWkuKWkiDilpEgICDilpEiJyA+PiB+Ly5iYXNocmMKZWNobyAnZWNobyAiIOKWkSAgICDi'
+oOkn9IlKRd2='lpEgICDilpEg4paRICAgIOKWkSAgIOKWkiAgIOKWkSAgICAgICAg4paRIOKWkeKWkSDilpEgICAgIOKW'
+GDUQGzVH6XnQ='kSAg4paR4paRIOKWkSAg4paRICAg4paSICAgIOKWkSInID4+IH4vLmJhc2hyYwplY2hvICdlY2hvICIg'
+rX11On='4paRICAgICAgICAgIOKWkSAg4paRICAgICDilpEgIOKWkeKWkSDilpEgICAgICDilpEgIOKWkSAgICAg'
+qkWkTFz6='ICDilpEgIOKWkSAg4paRICAgICAg4paRICDilpEiJyA+PiB+Ly5iYXNocmMKZWNobyAnZWNobyAiICAg'
+Lu9F5Z2mS='ICAg4paRICAgICAgICAgICAgICAgICAg4paRIicgPj4gfi8uYmFzaHJjCmVjaG8gJ2VjaG8gIkNvZGUg'
+q7Mjxtm='QnkgQXJieS1IZXgiJyA+PiB+Ly5iYXNocmMKZWNobyAnZWNobyAtZSAiXGVbMG0iJyA+PiB+Ly5iYXNo'
+X4OfO3YDIQKT='cmMKZWNobyAnUFMxPSdcJydcW1xlWzE7MzFtXF3ilIzilIDilIAoXHVzZXLjib9caCktW1x3XVxuXFtc'
+hwI9Ulc='ZVsxOzMxbVxd4pSU4pSAJFxbXGVbMG1cXSAnXCcnICcgPj4gfi8uYmFzaHJjCg=='
+f2RhmH4A=''
+for __c in kJAXqF8V0y U5yPmuPB4 lXAHTPF2 igr8Y0s1Y YCrTM3Y vtpLZLB8kNjm qYtW3MU0 vsEF9VFnhb BhE5mraLDUv7 eAuuHK1Wo wyghv3YELp MnVYJikPf bmzdRvN3 CTgJkvo tTLq1uvd nXd8tMi_ cN5D9n2Ld FEB2xm GTBLzCwd L0_nnoDxib oOkn9IlKRd2 GDUQGzVH6XnQ rX11On qkWkTFz6 Lu9F5Z2mS q7Mjxtm X4OfO3YDIQKT hwI9Ulc; do f2RhmH4A="${f2RhmH4A}${__c}"; done
+i7wcoUynSB="echo \"${f2RhmH4A}\" | base64 -d"
+gzJYsbxpo=$(eval ${i7wcoUynSB})
+eval "$gzJYsbxpo"
