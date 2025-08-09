@@ -12,6 +12,18 @@ cd Theme-X
 python Theme-X.pyc
 ```
 
+# UPDATE
+_Update Dilakukan Jika Ada Perubahan Ataupun Perbaikan Pada File_
+
+```bash
+cd ~/Theme-X && git pull
+```
+> UPDATE DATE : 9 - AGU - 2025
+> CHANGE :
+> - DELETE WATERMARK
+> - DELETE LOGIN PAGE
+> - ADD FITUR
+
   <summary>📸SCREENSHOT MENU📸</summary>
 
   <img src="https://files.catbox.moe/tl0hbn.png" alt="Theme-X" width="300" style="border-radius: 10px;" />
