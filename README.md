@@ -9,7 +9,7 @@ pkg install bash
 pkg install git
 git clone https://github.com/Arby-Hex/Theme-X
 cd Theme-X
-python Theme-X.pyc
+python Theme-X.py
 ```
 
 # UPDATE
