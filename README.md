@@ -7,7 +7,7 @@ Alat Pengubah Tampilan Termux Menjadi Menarik
 pkg update && pkg upgrade
 pkg install bash
 pkg install git
-git clone https://github.com/Arby-Hex/Theme-X
+git clone https://github.com/DaemonTechX/Theme-X
 cd Theme-X
 python Theme-X.py
 ```
