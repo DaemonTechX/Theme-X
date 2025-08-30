@@ -12,6 +12,16 @@ cd Theme-X
 python Theme-X.py
 ```
 
+# Atasi Error
+Jika Sudah Menjalankan Semua Command Instalasi Di Atas, Lalu Ingin Menjalankannya Kembali Namun Terjadi Error. Jalankan Command Ini
+```bash
+cd $HOME
+rm -rf Theme-X
+git clone https://github.com/DaemonTechX/Theme-X
+cd Theme-X
+python Theme-X.py
+```
+
 # UPDATE
 _Update Dilakukan Jika Ada Perubahan Ataupun Perbaikan Pada File_
 
