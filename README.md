@@ -5,6 +5,7 @@ Alat Pengubah Tampilan Termux Menjadi Menarik
 # INSTALASI
 ```bash
 pkg update && pkg upgrade
+pkg install python
 pkg install bash
 pkg install git
 git clone https://github.com/DaemonTechX/Theme-X
